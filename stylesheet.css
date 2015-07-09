@@ -1,0 +1,41 @@
+code {
+	color: #cc6666;
+	font-size: 20px;
+}
+
+p {
+	color: blue;
+	font-family: Garamond;
+}
+
+h1 {
+	font-family: Cursive, Arial, Tahoma;
+}
+
+div {
+	background-color: #cc6666;
+	height: 150px;
+	width: 150px;
+}
+
+table {
+	
+	border: 1px dashed black;
+}
+
+td {
+	height: 25px;
+	width: 25px;
+	border: 2px solid blue;
+}
+
+a{
+	text-decoration: none;
+}
+
+img {
+	height: 100;
+	width: 200;
+	border: 3px solid black;
+}
+}
